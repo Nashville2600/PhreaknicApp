@@ -1,0 +1,24 @@
+"#events" : {
+	barColor: "#6A9E68",
+	backgroundColor: "#bbb",
+	title: "Sponsors",
+	layout: "vertical",
+	},
+"#Cryptoparty":{
+top:"5",
+image:"/CryptoParty.png",
+height: "33%",
+},
+"#Netkoth":{
+top:"5",
+image:"/NetKOTH.png",
+height: "33%",
+
+},
+"#Ote":{
+top:0,
+image:"/OTE.png",
+height: "33%",
+
+
+},

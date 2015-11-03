@@ -1,0 +1,24 @@
+"#sponsors" : {
+	barColor: "#6A9E68",
+	backgroundColor: "#fff",
+	title: "Sponsors",
+	layout: "vertical",
+	},
+"#codexlabs":{
+top:"5",
+image:"/codexlabscom.png",
+height: "33%",
+},
+"#codexcasts":{
+top:"5",
+image:"/codexcastscom.png",
+height: "33%",
+
+},
+"#avatarstaffing":{
+top:0,
+image:"/avatartechnicalstaffing.png",
+height: "33%",
+
+
+},

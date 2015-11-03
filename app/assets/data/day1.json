@@ -1,0 +1,137 @@
+[{
+	"time": "10am-1pm",
+	"room": "Central Grande Ballroom",
+	"title": "Lightning Talks",
+	"speaker": "",
+	"description": "If you have a quick talk you'd like to give, here is your chance.",
+	"speakerbio": "",
+	"speakerpic": ""
+}, {
+	"time": "1:00pm-1:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Immersive Fulldome Video In the Planetarium",
+	"speaker": "Drew Gilmore",
+	"description": "If your memories of your last visit to a planetarium include the sounds of clackity-clacking 35mm slide projectors and a wobbly reel-to-reel audio track, you need to come back for the latest in A/V geekery.This session will cover a brief history of old-school planetarium tech, the star projector, digital projectors, hybrid systems, production tools (Cameras, 3D animation, After Effects, 6-camera GoPro rigs, Oculus Rift),and shameless Dome Club plug. Target Audience: Anyone interested in cool gear, animation, video production, space and/or astronomy.",
+	"speakerbio": "Drew Gilmore is Assistant Director of the Sudekum Planetarium's Judith Payne Turner Theatre at Nashville's Adventure Science Center. In 1993, Drew found the single best student job on the University of North Carolina campus presenting shows at the planetarium, and has been exploring space (and the tech required to show it on the inside of a big dome) ever since.",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/drew-gilmore.jpg?itok=6PdarYou"
+}, {
+	"time": "2:00pm-2:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Encrypted VHS Radio!",
+	"speaker": "Mog (Matthew O'Gorman)",
+	"description": "Multi-Use Radio Service allows 'a private, two-way, short-distance (miles) voice or data communication service for personal or business activities of the general public.' Learn: What equipment you need to use this band, commercial radios, SDRs. How to use it securely, and setup your own network on top of it. The limitations of the band.",
+	"speakerbio": "His name is Mog, he is a six-foot tall ape descendant.  He is a father of 2, hacker at makers local 256, and generally a free software hippie. Ask him about erlang, gpl, emacs, gEDA, GNUradio, or really bad movies and he will talk your ear off.",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/MOG.jpeg?itok=3sXkZZCu"
+}, {
+	"time": "2:00pm-3:00pm",
+	"room": "Forum Room",
+	"title": "Panopticlick Golf Orientation [CryptoParty]",
+	"speaker": "",
+	"description": "This will be an on-going competition through PhreakNIC",
+	"speakerbio": "",
+	"speakerpic": ""
+}, {
+	"time": "3:00pm-3:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Open Source Firearm Development: Community-driven Hardware Innovation & Design as Data ",
+	"speaker": "ZhuangZi",
+	"description": "The ability to programmatically create objects from blocks of raw material using computer-controlled machines is becoming accessible to larger groups of people. This has begun to have two effects on the way people approach objects. With more people having the means of producing objects, people are increasingly creating objects themselves rather than purchasing them commercially. However, design files are often distributed in lossy formats which aren't amenable to editing or re-mixing. This has lead some groups to form loose communities to collaboratively publish their editable design files under open source licenses. This presentation will cover the brief history of collaborative, open source hardware design as applied to firearms and explore the idea of constructible objects as data in a world where the translation from digital representation of an object to physical form is trivial. Actual 3D printed firearms (with bolt locked and no ammunition present!) will be available for inspection after the talk.",
+	"speakerbio": "ZhuangZi is a physicist, engineer, firearms enthusiast, and champion of human rights big and small. He has a background in quantum optics, material science, machine design, biochemistry, and beer. ZhuangZi was dabbling with home-built (3D-printed and otherwise) firearms when Cody Wilson started DefDist - an organization created to decentralize firearm design and manufacturing. When Cody got cold feet, turned DefDist into a private company, and stopped firearms development, FOSSCAD was spun off and ZhuangZi jumped in head first.",
+	"speakerpic": ""
+}, {
+	"time": "3:00pm-3:45pm",
+	"room": "Forum Room",
+	"title": "[CryptoParty] Key Signing Party",
+	"speaker": "",
+	"description": "Hands-on GPG setup or keysigning.",
+	"speakerbio": "",
+	"speakerpic": ""
+}, {
+	"time": "4:00pm-4:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Hacking Crime",
+	"speaker": "Crimson Fist",
+	"description": "",
+	"speakerbio": "The Crimson Fist is a costumed crime-fighter working and residing in Atlanta, Georgia. For 8 years, he has donned the identity and symbolism of a superhero and taken to the streets in an effort to reduce crime and poverty in the city, and to show others that they don't have to be victims. More information about The Crimson Fist can be found at facebook.com/heroatl",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/crimsonfistposter.jpg?itok=FJKSrdpb"
+}, {
+	"time": "4:00pm-6:00pm",
+	"room": "Forum Room",
+	"title": "Screening of the Internet's Own Boy",
+	"speaker": "",
+	"description": "Screening of the Internet's Own Boy, the Aaron Swartz documentary which is freely available on the Internet Archive.",
+	"speakerbio": "",
+	"speakerpic": ""
+}, {
+	"time": "5:00pm-5:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Finding it Without FOIA",
+	"speaker": "Steve Esposito",
+	"description": "",
+	"speakerbio": "Steve is a US Army veteran (Aviation, former Major) with a background in financial information systems (no, not the ones your bank uses). Besides his time in uniform, he was a defense contractor supporting the US Navy, US Army, Missile Defense Agency, and the Defense Information Systems Agency for over 15 years. On the civilian side of things, Steve has written for the Reason Foundation, The Foundation for Economic Education, and the occasional online column here and there. You can find links to most of that at Austrian Anarchy.",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/Steve-83-crop.jpg?itok=3l8pNeYa"
+}, {
+	"time": "6:00pm-7:00pm",
+	"room": "Forum Room",
+	"title": "[Crypto Party] Browser Security",
+	"speaker": "",
+	"description": "Browser security plugin-review, general browser security, possible discussion of Tor+Firefox.",
+	"speakerbio": "",
+	"speakerpic": ""
+}, {
+	"time": "6:00pm-6:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Famous Unsolved Codes",
+	"speaker": "Elonka Dunin",
+	"description": "Elonka goes over some of the world's most famous unsolved codes, including the CIA's Kryptos sculpture, the centuries-old Voynich Manuscript, and inspiration for 'National Treasure', the 'Beale Papers'.",
+	"speakerbio": "Elonka Dunin (@ElonkaDunin) is a professional game developer, writer, and cryptographer. She is webmistress of two popular crypto-related websites which contain information about the world's most famous unsolved codes. As of 2014, her elonka.com website has had nearly five million page views. In 2000 she was awarded a prize for being the first person to crack the 1999 PhreakNIC v3.0 Code. In 2003 she led the team that cracked the famous Cyrillic Projector cipher, which turned out to contain extracts of classified KGB documents. In 2006 she authored The Mammoth Book of Secret Codes and Cryptograms, which has been published internationally with multiple re-printings. Bestselling author Dan Brown honored Elonka by naming one of the characters in his Da Vinci Code sequel The Lost Symbol after her: Nola Kaye is an anagrammed form of Elonka. She has also been featured by the popular webcomic Penny Arcade, where she created a cipher that dovetailed with the daily comic. In other hobbies, Dunin is an avid Wikipedia editor, was elected as an administrator in 2007, and has been a significant contributor to over 500 articles-- especially in topics related to the Crusades and medieval history. When not in front a computer, she's probably out geocaching.",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/2005_NSA_Crypto_Symposium_Closeup.jpg?itok=1isnZU9t"
+}, {
+	"time": "7:00pm-7:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Keynote: Welcome to PhreakNIC",
+	"speaker": "PhreakNIC Staff",
+	"description": "The keynote",
+	"speakerbio": "",
+	"speakerpic": ""
+}, {
+	"time": "8:00pm-8:45pm",
+	"room": "Central Grande Ball Room",
+	"title": "NarkNet: Passive Wi-Fi Surveillance",
+	"speaker": "Keith R. Watson",
+	"description": "Do you use open Wi-Fi? Did you know that it is possible to passively intercept your traffic? See a live demo and learn how to protect yourself. NarkNet uses free off-the-shelf technology that comes natively with many operating systems to passively intercept wireless networking traffic. The WiFi network adapter in your computer is a radio. The radio can be manually tuned to the radio frequency used by a WiFi access point (AP). Once the radio is tuned to the right frequency it can passively receive all the WiFi network traffic to and from the AP (this will include traffic for all the clients associated with the AP). Programs such as ettercap and CookieCadger can be used to automatically sift through the WiFi traffic to reveal sensitive information such as user IDs, passwords, and session cookies which can be used to hijack sessions and services. It is not possible to detect NarkNet being used. Encrypting the WiFi traffic with protocols such as WPA2 can help but this does not protect your traffic from being intercepted on the wired network by government agencies such as the NSA, GCHQ, and BND or from organized crime using BGP attacks to reroute entire sections of the Internet through their data center. We will do a live demonstration of NarkNet as part of the presentation. For full description see: https://phreaknic.info/content/narknet-passive-wi-fi-surveillance",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/Keith_Watson_LowRes.jpg?itok=5Lin0OWS",
+	"speakerbio": "Information Security Manager, Georgia Tech College of Computing Keith has been hacking for a really long time (carbon dating may be required). He has done contract work reverse engineering automotive control computers and was a submarine qualified electronics technician doing cryptography and signals intelligence for the U.S. Navy during the Cold War. Keith has been working at Georgia Tech for 26 years. He is currently Information Security Manager for the Georgia Tech College of Computing, sponsor of Grey H@T the Georgia Tech College of Computing information security student organization, and mailing list moderator for DC404. http://www.cc.gatech.edu/~krwatson/ https://greyhat.gatech.edu/ http://dc404.org/"
+}, {
+	"time": "8:00pm-8:45pm",
+	"room": "Forum Room",
+	"title": "Steganography 101",
+	"speaker": "",
+	"description": "",
+	"speakerpic": "",
+	"speakerbio": ""
+}, {
+	"time": "9:00pm-9:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Running a Hackerspace: Freeside Atlanta",
+	"speaker": "Alan Fay",
+	"description": "What is it like running a hackerspace?  Alan Fay, a Director at Freeside Atlanta, will spin a wild and somewhat coherent yarn about starting (and resurrecting) a hackerspace, daily operations, challenges, and vision for the future of all hackerspaces.  Presentation, followed by Q&A.  Audience participation in a loud, clear voice highly encouraged.",
+	"speakerbio": "Alan Fay is a Director of Freeside Atlanta, a 501(c)3 non-profit hackerspace.  He's been helping to run Freeside for over two very long and very weird years.  Professionally, he is a software developer with 12+ years of experience in all sorts of technology stacks and platforms - he even wrote in MUMPS once and lived.  His interests include: strong cryptography for freedom, information security for a free press, building big art for regional Burns, and cycling.",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/stoned-dog.jpg?itok=KgKV2j2z"
+}, {
+	"time": "10pm",
+	"room": "Central Grande Ballroom",
+	"title": "Movies!",
+	"speaker": " ",
+	"description": "It's movies back to back. ",
+	"speakerbio": " ",
+	"speakerpic": " "
+}, {
+	"time": "10pm",
+	"room": "Forum Room",
+	"title": "OnionPi Router",
+	"speaker": " ",
+	"description": "Let's make an OnionPi router! If people already have theirs working, we'll switch focus to debugging or creating the Tahoe-LAFS grid, and/or general discussion about operational security techniques. ",
+	"speakerbio": " ",
+	"speakerpic": " "
+}]

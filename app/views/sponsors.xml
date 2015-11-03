@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="sponsors">
+		<ImageView id="codexlabs" onClick="codexlabscom"></ImageView>
+		<ImageView id="codexcasts" onClick="codexcastscom"></ImageView>
+		<ImageView id="avatarstaffing" onClick="avatartechnicalstaffingcom"></ImageView>
+	</Window>
+</Alloy>

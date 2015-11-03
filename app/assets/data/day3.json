@@ -1,0 +1,30 @@
+[{
+	"time": "10am-11:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Lightning Talks",
+	"speaker": "",
+	"description": "If you have a quick talk you'd like to give, here is your chance.",
+	"speakerbio": ""
+}, {
+	"time": "12pm-12:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Solar Sails: A Novel Approach to Interplanetary ( and Interstellar) Travel",
+	"speaker": "Les Johnson",
+	"description": "Solar sail propulsion will make space exploration more affordable and offer access to destinations within (and beyond) the solar system that are currently beyond our reach. Les’ talk will describe solar sails, how they work and what they will be used for in the exploration of space. He will cover the current plans for solar sails and future space missions using them",
+	"speakerbio": "Les Johnson is a science fiction author for Baen Books ('Back to the Moon,' 'Going Interstellar' and 'Rescue Mode') and popular science author for Springer Books ('Living Off the Land in Space', 'Solar Sails', 'Paradise Regained' and 'Sky Alert'). He is also the Senior Technical Advisor for NASA’s Advanced Concepts Office at the George C. Marshall Space Flight Center in Huntsville, Alabama. While at NASA, Les managed NASA’s Interstellar Propulsion Research Project, the In-Space Propulsion Technology Program, and the Science Programs & Projects Office. Les is the co-investigator on the T-Rex space experiment that flew in August 2010, the Principal Investigator for the ProSEDS space experiment, twice received NASA’s Exceptional Achievement Medal, the NASA Exceptional Technology Achievement Medal, and holds 3 space technology patents. He is currently the Principal Investigator for the Near Earth Asteroid Scout mission which will launch in 2017. He was the technical consultant for the movies 'Lost in Space' and 'Europa Report'. NPR, CNN, Fox News, The Science Channel and The Discovery Channel have all interviewed him about space and space exploration and he will appear in at least two Discovery Channel programs in 2014. He was the featured Interstellar Explorer in the January 2013 issue of National Geographic magazine, spoke at TEDx Huntsville and was the 'Making it Real' speaker at EVE FanFest 2014 (in Iceland). Les earned his Master’s degree at Vanderbilt University in Nashville, TN and his Bachelor’s Degree from Transylvania University in Lexington, KY. He is also a graduate of the International Space University. He has numerous peer-reviewed publications and was published in Analog. Les is the Chairman of the Tennessee Valley Interstellar Workshop. He has been a frequent contributor to the Journal of the British Interplanetary Society and a member of the National Space Society, The British Interplanetary Society, The World Future Society, and MENSA."
+}, {
+	"time": "1:00pm-1:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Heartburn from the Heartbleed Vulnerability",
+	"speaker": "Keith R. Watson",
+	"description": "What is the Heartbleed vulnerability really about, how do you defend yourself, and how many of your favorite web sites are still vulnerable?    The heartbleed bug was caused by a coding error in the OpenSSL crypto library used by 17% of all the sites on the Internet using HTTPS.    In the aftermath of the bug we have discovered some serious weaknesses in many of the systems that make the Internet possible.    Is public key infrastructure up to the task of protecting our most sensitive data?    Has Linus's Law been refuted? Can we trust open source software?    Was the heartbleed bug a text book case of responsible disclosure?    Not all the vulnerable sites have patched for heartbleed. How do you know if the service you are using is safe? Heartburn from the Heartbleed Vulnerability presentation slides  http://www.cc.gatech.edu/~krwatson/",
+	"speakerbio": "Information Security Manager, Georgia Tech College of Computing Keith has been hacking for a really long time (carbon dating may be required). He has done contract work reverse engineering automotive control computers and was a submarine qualified electronics technician doing cryptography and signals intelligence for the U.S. Navy during the Cold War. Keith has been working at Georgia Tech for 26 years. He is currently Information Security Manager for the Georgia Tech College of Computing, sponsor of Grey H@T the Georgia Tech College of Computing information security student organization, and mailing list moderator for DC404. http://www.cc.gatech.edu/~krwatson/ https://greyhat.gatech.edu/ http://dc404.org/",
+	"speakerpic": "https://phreaknic.info/sites/default/files/styles/medium/public/Keith_Watson_LowRes.jpg?itok=5Lin0OWS"
+}, {
+	"time": "2:00pm-Finish",
+	"room": "Central Grande Ballroom",
+	"title": "PhreakNIC 18 Closing Ceremony",
+	"speaker": "PhreakNIC Staff",
+	"description": "We will hold a postmortem for Network King of the Hill,  Have closing thoughts on the CryptoParty, hand out prizes, and wrap up the conference.",
+	"speakerbio": ""
+}]

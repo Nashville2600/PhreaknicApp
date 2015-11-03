@@ -1,0 +1,128 @@
+[{
+	"time": "2am",
+	"room": "Central Grande Ballroom",
+	"title": "Movies",
+	"speaker": "",
+	"description": "JonnyX brings his collection of rare scientific films for our viewing pleasure",
+	"speakerbio": ""
+},{
+	"time": "10am-10:45am",
+	"room": "Central Grande Ballroom",
+	"title": "x86 Assembly, It's Really Not Actually That Bad.",
+	"speaker": "Brandon Tansey",
+	"description": "",
+	"speakerbio": ""
+},{
+	"time": "10am-11am",
+	"room": "Forum Room",
+	"title": "Crypto Party",
+	"speaker": "",
+	"description": "",
+	"speakerbio": ""
+},{
+	"time": "11am-11:45am",
+	"room": "Central Grande Ballroom",
+	"title": "Malware Analysis",
+	"speaker": "Brandon Tansey",
+	"description": "Malware Analysis",
+	"speakerbio": ""
+},{
+	"time": "12pm-12:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "The Hacker Next Door: Confessions of A Black Hat",
+	"speaker": "Alex Berta",
+	"description": "This talk will give security professionals an in depth look at how the Black Hat Community Operates. From goals to methodologies, Alex will pull back the curtains on some of the world's most dangerous cyber-attacks and attackers so you can better understand the threats you face. Included in this session: The 4 universal steps of a cyber-attack, What happens from the attacker's point of view, What happens after an attack. Don't miss this unique insight into how black hat hackers operate, and how you can protect your network.",
+	"speakerbio": "As a teenager, Alex Berta spent several years as a high-value member of select hacking collectives around the world, which gave him rare insight into the methods and goals of the criminal black hat hackers. Today, Alex uses everything he’s learned to educate and protect users and networks across the country. In addition to the technical brilliance he puts to work for NSG clients every day, Alex is an acclaimed advocate, educator and speaker for groups ranging from the Nashville Technology Council to the US Government. His ability to clarify the murky world of online hackers is forcing policy makers and business owners to rethink their approach to information security for the benefit of their clients, employees and overall business strategy."
+},{
+	"time": "1pm-1:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Turning Your Tech Hobby into a Tech Paycheck",
+	"speaker": "Elonka Dunin",
+	"speakerbio": "Elonka Dunin (@ElonkaDunin) is a professional game developer, writer, and cryptographer. She is webmistress of two popular crypto-related websites which contain information about the world's most famous unsolved codes. As of 2014, her elonka.com website has had nearly five million page views. In 2000 she was awarded a prize for being the first person to crack the 1999 PhreakNIC v3.0 Code. In 2003 she led the team that cracked the famous Cyrillic Projector cipher, which turned out to contain extracts of classified KGB documents. In 2006 she authored The Mammoth Book of Secret Codes and Cryptograms, which has been published internationally with multiple re-printings. Bestselling author Dan Brown honored Elonka by naming one of the characters in his Da Vinci Code sequel The Lost Symbol after her: Nola Kaye is an anagrammed form of Elonka. She has also been featured by the popular webcomic Penny Arcade, where she created a cipher that dovetailed with the daily comic. In other hobbies, Dunin is an avid Wikipedia editor, was elected as an administrator in 2007, and has been a significant contributor to over 500 articles, especially in topics related to the Crusades and medieval history. When not in front a computer, she's probably out geocaching.",
+	"description": "Turning Your Tech Hobby into a Tech Paycheck"
+},{
+	"time": "1pm-1:45pm",
+	"room": "Forum Room",
+	"title": "The Internet's Own Boy Screening",
+	"speaker": "",
+	"speakerbio": "",
+	"description": "Screening of the Internet's Own Boy, the Aaron Swartz documentary which is freely available on the Internet Archive."
+}, {
+	"time": "2:00pm-2:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "What Would Happen if We Lost Our Satellites?",
+	"speaker": "Les Johnson",
+	"description": "We are now dependent on satellites in virtually all areas of life - far more than most people realize.  Their sudden loss could crash the economy and potentially cause many to die.  Les will describe the many ways our modern life depends upon satellites and the all-too-plausible scenarios that might cause us to lose them For more information, check out Sky Alert: When Satellites Fail. The book provides a detailed account of what might happen if this modern apocalypse should occur. A brief summary can be found in Les’s online article, Living Without Satellites.",
+	"speakerbio": "Les Johnson is a science fiction author for Baen Books ('Back to the Moon,' 'Going Interstellar' and 'Rescue Mode') and popular science author for Springer Books ('Living Off the Land in Space', 'Solar Sails', 'Paradise Regained' and 'Sky Alert'). He is also the Senior Technical Advisor for NASA’s Advanced Concepts Office at the George C. Marshall Space Flight Center in Huntsville, Alabama. While at NASA, Les managed NASA’s Interstellar Propulsion Research Project, the In-Space Propulsion Technology Program, and the Science Programs & Projects Office. Les is the co-investigator on the T-Rex space experiment that flew in August 2010, the Principal Investigator for the ProSEDS space experiment, twice received NASA’s Exceptional Achievement Medal, the NASA Exceptional Technology Achievement Medal, and holds 3 space technology patents. He is currently the Principal Investigator for the Near Earth Asteroid Scout mission which will launch in 2017. He was the technical consultant for the movies 'Lost in Space' and 'Europa Report'. NPR, CNN, Fox News, The Science Channel and The Discovery Channel have all interviewed him about space and space exploration and he will appear in at least two Discovery Channel programs in 2014. He was the featured Interstellar Explorer in the January 2013 issue of National Geographic magazine, spoke at TEDx Huntsville and was the 'Making it Real' speaker at EVE FanFest 2014 (in Iceland). Les earned his Master’s degree at Vanderbilt University in Nashville, TN and his Bachelor’s Degree from Transylvania University in Lexington, KY. He is also a graduate of the International Space University. He has numerous peer-reviewed publications and was published in Analog. Les is the Chairman of the Tennessee Valley Interstellar Workshop. He has been a frequent contributor to the Journal of the British Interplanetary Society and a member of the National Space Society, The British Interplanetary Society, The World Future Society, and MENSA."
+}, {
+	"time": "3:00pm-3:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Crash-course in Using the Nintendo Gameboy for Sound and Music",
+	"speaker": "Arnie Holder",
+	"description": "This talk will cover the audio capabilities of the Nintendo Gameboy, demonstrate several types homebrew software currently available, discuss common hardware modifications that Gameboy music performers use, and assist attendees in getting their own setup to produce chipmusic. A downloadable package of resources will be provided to help attendees with further exploration.",
+	"speakerbio": "https://phreaknic.info/sites/default/files/styles/medium/public/arnie_holder.jpg?itok=qjcMEo1E"
+}, {
+	"time": "4:00pm-4:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Wikipedia: Tips on Communicating with the Hive Mind",
+	"speaker": "Elonka Dunin",
+	"speakerbio": "Elonka Dunin (@ElonkaDunin) is a professional game developer, writer, and cryptographer. She is webmistress of two popular crypto-related websites which contain information about the world's most famous unsolved codes. As of 2014, her elonka.com website has had nearly five million page views. In 2000 she was awarded a prize for being the first person to crack the 1999 PhreakNIC v3.0 Code. In 2003 she led the team that cracked the famous Cyrillic Projector cipher, which turned out to contain extracts of classified KGB documents. In 2006 she authored The Mammoth Book of Secret Codes and Cryptograms, which has been published internationally with multiple re-printings. Bestselling author Dan Brown honored Elonka by naming one of the characters in his Da Vinci Code sequel The Lost Symbol after her: Nola Kaye is an anagrammed form of Elonka. She has also been featured by the popular webcomic Penny Arcade, where she created a cipher that dovetailed with the daily comic. In other hobbies, Dunin is an avid Wikipedia editor, was elected as an administrator in 2007, and has been a significant contributor to over 500 articles, especially in topics related to the Crusades and medieval history. When not in front a computer, she's probably out geocaching.",
+	"description": " Bring your computers and/or questions to this workshop, where Elonka, a Wikipedia administrator since 2007, will explain the best ways to create, expand, or modify Wikipedia articles, and teach you some of the tricks and syntax techniques that go on behind the scenes. From Elonka: 'No limit on size (attendance), everyone should have a computer and wi-fi.  Recommend they already have an account setup, and perhaps the names of a couple articles they'd like to edit/create/investigate.'"
+}, {
+	"time": "4:00pm-6:00pm",
+	"room": "Forum Room",
+	"title": "Pond and Tahoe-LAFS",
+	"speaker": "",
+	"speakerbio": "",
+	"description": "Pond and Tahoe-LAFS, and with enough participants, we'll try and make a Tahoe-LAFS grid."
+}, {
+	"time": "5:00pm-5:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "How the Second Amendment Works",
+	"speaker": "Decius Wadsworth",
+	"description": "In a move that is bound to piss off everybody in the entire community, Decius is going to present his thoughts on the history and interpretation of the Second Amendment to the United States Constitution. The Second Amendment is one of the most controversial parts of the Constitution. Hopefully, more information about the context in which it was written and the history of its interpretation will make the meaning of the text seem less subjective. Be forewarned that the direction the Court is heading with this will not satisfy partisans of either side of this issue, but if you care about the subject, as many in our community do, its worth understanding what is happening in this area, whether you agree with it or not. Target Audience: People who love guns and people who hate people who love guns and people who hate people who hate people who love guns. Note: 'This is not to be a drunken rant. I will not drink till its over. You should actually say that in the conference program.' - Decius",
+	"speakerbio": "Amateur Constitutional Scholar, Professional Information Security Researcher Decius has been talking about Constitutional rights at Phreaknic since it first started 18 years ago. He has also spoken at Hope, Defcon, Summercon, Blackhat, BSides, Electronic Frontier Forums, Source, RSA, CyCon, and probably a lot of other conferences we've long since forgotten about. 'Decius is also one of the people who started PhreakNIC. And se2600. And Nashville 2600. And Atlanta 2600. So ultimately, it's all his fault.' - jonnyX"
+}, {
+	"time": "6:00pm-6:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Run While You Still Can!(or rather: How 3D Printers Will be the Death of Us All)",
+	"speaker": "Chad Ramey",
+	"description": "Experiences and stories from the world of consumer grade 3D printing.",
+	"speakerbio": "Computer scientist, roboticist, and garage based nuclear physicist Chad Ramey is currently a senior at the Georgia Institute of Technology where he is majoring in computer science. While in highschool, he designed and constructed a inertial electrostatic confinement fusion reactor in his garage. So far in his career at GaTech, Chad has interned at NASA's Johnson Space Center and will be beginning an internship at Google in January. In his free time Chad serves as the president of GaTech's Invention Studio, researches for a few labs, and builds things (mostly race cars and nuclear apparatus)."
+}, {
+	"time": "7:00pm-7:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Comrades, Contribute to Free and Open Source Software!",
+	"speaker": "Morgan Phillips",
+	"description": "Anecdotally, it seems that many supporters of free and open source principles have never had the opportunity to get involved in a FOSS project. This is understandable, since getting involved with a project can be no small feat without appropriate mentorship and/or introduction. In this talk we will break down the process of setting up contribution environments for both the Linux kernel and the Firefox web browser. Most importantly, this is not just for software engineers, as non-developers make invaluable contributions in many areas; from submitting bug reports to graphic design.",
+	"speakerbio": "Morgan Phillips is a software engineer who has a masochistic fascination with ops and operating system architecture. Her foray into software began while studying physics as an undergraduate, when she found that it was more fun to write code than journal articles. Since then she's worked on network analysis tools at the Army Research Laboratory, Data Warehouse Operations at Facebook, and SaaSy startups. She spends her free time writing poetry about the Linux kernel at linux-poetry.com, reading science fiction novels, and roller skating."
+}, {
+	"time": "8:00pm-8:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Interstellar Travel",
+	"speaker": "Les Johnson",
+	"description": "More than 1000 exoplanets have been discovered, some of which may be similar to Earth. Many are now asking, “How do we get there?” Though the distances are vast, there are methods that may allow humanity to one day go to the stars - and they are within the known laws of physics. (No warp drive required!) Following a status on exoplanets research, Les will describe methods that may one day allow humanity to become an interstellar species.",
+	"speakerbio": "Les Johnson is a science fiction author for Baen Books ('Back to the Moon,' 'Going Interstellar' and 'Rescue Mode') and popular science author for Springer Books ('Living Off the Land in Space', 'Solar Sails', 'Paradise Regained' and 'Sky Alert'). He is also the Senior Technical Advisor for NASA’s Advanced Concepts Office at the George C. Marshall Space Flight Center in Huntsville, Alabama. While at NASA, Les managed NASA’s Interstellar Propulsion Research Project, the In-Space Propulsion Technology Program, and the Science Programs & Projects Office. Les is the co-investigator on the T-Rex space experiment that flew in August 2010, the Principal Investigator for the ProSEDS space experiment, twice received NASA’s Exceptional Achievement Medal, the NASA Exceptional Technology Achievement Medal, and holds 3 space technology patents. He is currently the Principal Investigator for the Near Earth Asteroid Scout mission which will launch in 2017. He was the technical consultant for the movies 'Lost in Space' and 'Europa Report'. NPR, CNN, Fox News, The Science Channel and The Discovery Channel have all interviewed him about space and space exploration and he will appear in at least two Discovery Channel programs in 2014. He was the featured Interstellar Explorer in the January 2013 issue of National Geographic magazine, spoke at TEDx Huntsville and was the 'Making it Real' speaker at EVE FanFest 2014 (in Iceland). Les earned his Master’s degree at Vanderbilt University in Nashville, TN and his Bachelor’s Degree from Transylvania University in Lexington, KY. He is also a graduate of the International Space University. He has numerous peer-reviewed publications and was published in Analog. Les is the Chairman of the Tennessee Valley Interstellar Workshop. He has been a frequent contributor to the Journal of the British Interplanetary Society and a member of the National Space Society, The British Interplanetary Society, The World Future Society, and MENSA."
+},{
+	"time": "9:00-9:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Do Try This at Home: Nuclear Science Edition",
+	"speaker": "Chad Ramey",
+	"description": "DIY nuclear fusion and particle physics experiments for the budding evil genius.",
+	"speakerbio": "Computer scientist, roboticist, and garage based nuclear physicist Chad Ramey is currently a senior at the Georgia Institute of Technology where he is majoring in computer science. While in highschool, he designed and constructed a inertial electrostatic confinement fusion reactor in his garage. So far in his career at GaTech, Chad has interned at NASA's Johnson Space Center and will be beginning an internship at Google in January. In his free time Chad serves as the president of GaTech's Invention Studio, researches for a few labs, and builds things (mostly race cars and nuclear apparatus)."
+},{
+	"time": "10:00pm-10:45pm",
+	"room": "Central Grande Ballroom",
+	"title": "Movies!",
+	"speaker": "",
+	"description": " ",
+	"speakerbio": " ."
+},{
+	"time": "10pm",
+	"room": "Forum Room",
+	"title": "OnionPi Router",
+	"speaker": " ",
+	"description": "Let's make an OnionPi router! If people already have theirs working, we'll switch focus to debugging or creating the Tahoe-LAFS grid, and/or general discussion about operational security techniques. ",
+	"speakerbio": " ",
+	"speakerpic": " "
+}]

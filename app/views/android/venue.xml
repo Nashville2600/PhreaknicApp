@@ -1,0 +1,9 @@
+<Alloy>
+	<Window id="venue" class="container" layout="vertical">
+		<ImageView id="indoor" image="/floorplan.png"></ImageView>
+		<Label height="60">Click the map to route:</Label>
+		<ImageView id="maplocation" onClick="route2phreaknic" image="/maxwellhouse.png"></ImageView>
+		
+		<!-- View id="map" ns="Alloy.Globals.Map"></View --> 
+	</Window>
+</Alloy>

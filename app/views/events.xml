@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="events">
+		<ImageView id="Cryptoparty" onClick="cryptoparty"></ImageView>
+		<ImageView id="Netkoth" onClick="netkoth"></ImageView>
+		<ImageView id="Ote" onClick="ote"></ImageView>
+	</Window>
+</Alloy>
